@@ -172,7 +172,7 @@ X-RateLimit-Retry-After-CONTRACT, # Reset timeout in seconds for current ratelim
 
 ### Signature Example 1: HTTP GET Request
 
-* API REST Request URL: https://api.phemex.com/accounts/accountPositions?currency=BTC
+* API REST Request URL: https://api.phemex.com/accounts/accountPositions?currency=BT
    * Request Path: /accounts/accountPositions
    * Request Query: currency=BTC
    * Request Body: <null>
